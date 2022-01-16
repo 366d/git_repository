@@ -1,2 +1,2 @@
 # git_repository
-This my first repository!
+This my first git repository!
